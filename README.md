@@ -20,3 +20,7 @@ Food Services is a simple, responsive website designed to provide information ab
 - Gallery page with images of food and events
 - Contact page with a form for customer inquiries
 
+## Technologies Used
+
+- HTML
+- CSS
